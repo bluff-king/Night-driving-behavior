@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 /note.txt
+/output_images
